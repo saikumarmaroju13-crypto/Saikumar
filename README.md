@@ -1,4 +1,4 @@
-# Skills
+# Skills and tools
 - Data Analysis on Commercial Real Estate and preparing reports.
 - Advanced Excel (Conditional Formatting, Pivot Tables, Lookup Values, Charts & Data Visualization and Formulas & Functions)
 - Advanced SQL (Joins, Aggregation, Subqueries & CTEs and Reporting)
