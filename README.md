@@ -1,4 +1,4 @@
-About Me
+# About Me
 
 I am Saikumar-Data-driven and detail-oriented Sr. Data Researcher with 3 years experience. I am actively seeking new opportunities as a Data Analyst or Business Analyst to apply my analytical skills and business knowledge in driving impactful data-driven decisions.
 -With extensive expertise in Excel, SQL, Python, Power BI and both descriptive and inferential statistics, I specialize in data analysis, manipulation, modeling and mining to uncover actionable business insights.
