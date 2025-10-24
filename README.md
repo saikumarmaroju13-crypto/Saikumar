@@ -1,5 +1,5 @@
 # :rocket: Data Analyst| Power BI| SQL| Structured Problem Solving | Open to New Oppurtunities
-:mag: ## **About Me**
+:mag: **## About Me**
 
 I am Saikumar, Data-driven and detail-oriented Sr. Data Researcher with 3 years experience. I am actively seeking new opportunities as a Data Analyst or Business Analyst to apply my analytical skills and business knowledge in driving impactful data-driven decisions.
 
