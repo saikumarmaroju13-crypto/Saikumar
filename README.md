@@ -1,31 +1,58 @@
 # :rocket: Data Analyst| Power BI| SQL| Structured Problem Solving | Open to New Oppurtunities
-:mag: **## About Me**
+:mag: **About Me**
 
 I am Saikumar, Data-driven and detail-oriented Sr. Data Researcher with 3 years experience. I am actively seeking new opportunities as a Data Analyst or Business Analyst to apply my analytical skills and business knowledge in driving impactful data-driven decisions.
 
 With extensive expertise in Excel, SQL, Python, Power BI and both descriptive and inferential statistics, I specialize in data analysis, manipulation, modeling and mining to uncover actionable business insights.
-
-
-Currently working at FINACPLUS GLOBAL I focus on researching commercial real estate companies and delivering high-quality accurate data sets that drive client research and business decision-making.
-
 
 I am passionate about leveraging analytical tools and business acumen to support special projects, enhance research quality and foster data-driven outcomes that advance organizational goals. Recognized for reliability, attention to detail and a collaborative approach to    learning and development.
 
 :handshake: Let's connect 
 If you're looking for a Data Analyst with a proven record of transforming data into insights and driving tangible business impact -- I'd love to connect.
 
+:e-mail: saikumarmaroju13@gmail.com
 
+:iphone: +91 8106037749
 
-## Skills
+:linkedin: (https://www.linkedin.com/in/saikumar-maroju-b1b57a228/)
 
--Data Analysis on Commercial Real Estate and Preparing Reports: Conduct comprehensive analysis of commercial real estate data, identifying trends, patterns and key performance indicators. Generate detailed, accurate reports that provide actionable insights for             stakeholders to support informed decision-making and strategic planning.
--Advanced Excel: Proficient in using advanced Excel features such as Conditional Formatting to highlight data trends, Pivot Tables to summarize large datasets dynamically and Lookup Functions (VLOOKUP, HLOOKUP) to cross-reference data efficiently. Skilled in creating charts and visualizations for effective data presentation and utilizing complex formulas and functions for data calculation and automation.
--Advanced SQL: Expertise in writing complex SQL queries involving multiple types of JOINS (INNER, LEFT, RIGHT, FULL) to combine data from various tables. Skilled in aggregation functions (SUM, COUNT, AVG), subqueries and Common Table Expressions (CTEs) to simplify complex data retrieval tasks. Experienced in generating custom reports by querying relational databases to extract and analyze relevant datasets.
--Structured Problem Solving: Strong analytical skills to break down business cases into manageable components using logical frameworks to solve problems efficiently. Experienced in performing guesstimates to approximate values when data is limited, calculating percentiles for statistical insights and applying process skills to optimize workflows and improve operational efficiencies.
--Data Visualization in Power BI: Capable of creating interactive dashboards that provide clear, insightful visual representations of data. Skilled in data modeling to establish relationships between datasets, writing DAX (Data Analysis Expressions) formulas for customized calculations and designing user-friendly interfaces that enhance user experience. Proficient in selecting appropriate visual types (bar charts, line graphs, maps) to best represent various data stories.
-Python Fundamentals: Knowledgeable in core Python concepts including variables, data types and control flow. Skilled in using Python data structures such as lists, dictionaries, and tuples to organize data. Experienced in scripting and automation to streamline repetitive tasks, handling exceptions to ensure robust code and performing basic data analysis with libraries like pandas and NumPy for data manipulation and insights.
+:octocat: (https://github.com/saikumarmaroju13-crypto/)
+
+:hammer_and_wrench: Core Skills
+-Advanced Excel
+-SQL
+-Problem Solving
+-Power BI
+-Python Fundamentals
+-Data Analysis
+-Data Manipulation
+-Descriptive Statistics
+-Data Mining
+
+:briefcase: Current Role
+Senior Data Researcher | Finacplus Global, Hyderabad (Aug 2022-Present)
+:white_check_mark: Researching commercial Real estate companies and collecting quality data for Bisnow to support client research needs. Various special projects require detailed Data pulling and Analysis. :white_check_mark:  Conducted detailed research, maintained complex Excel sheets and utilized SQL to extract project data for Ad-hoc and special assignments. :white_check_mark: 
+
+:briefcase: Previous Role 
+Senior Technical Associate | Tech Mahindra, Hyderabad (Sep 2019-Aug 2022)
+:white_check_mark: Handled customer inquiries through chat regarding billing, account setup and technical issues. Revenue targets were set to be met every month through cross-selling opportunities. :white_check_mark: Proactively up-sold Verizon products and services tailored to customer needs during chat interactions. Served as a Subject Matter Expert (SME) offering training and sharing best practices.
+
+:bar_chart: Ket Projects
+:pushpin: Capstone Project on Power Bi 
+Delivered an effective dashboard providing key business insights, helping to spot top-selling products, understand customer behavior and discover revenue trends with clear visuals.
+
+:pushpin: Capstone Project - Python
+Created an automated system that cleaned and combined data, calculated bonuses and promotions and generated useful reports.
+
+:pushpin: Ad-hoc project
+Delivered clear, data-driven presentations that highlighted investment insights. Enabling clients to understand market trends and make informed decisions that boosted their revenue.
+
+:trophy: ACHIEVEMENTS & AWARDS
+:star: Recognized as Best Data Researcher in Ad-hoc Project  :star: Received Best employee of the month Award for 3 times  :star: Achieved Best Quarterly Revenue generation Award  :star: Secured 2nd place in the college Caroms tournament.
+
 # Certifications
 **Data Analytics with Python – Skillovilla**  
-  Certified: October 2025  
+  
   Successfully completed a comprehensive certification in Data Analytics and Python, covering Data cleaning, Advanced Excel, SQL, Problem Solving, Data Visualization in Power Bi, Python fundamentals and hands on projects.
+  
   [View Certificate]((https://www.skillovilla.com/certificate/75DFQ9R9))
