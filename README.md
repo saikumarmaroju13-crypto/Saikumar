@@ -11,6 +11,10 @@ Currently working at FINACPLUS GLOBAL I focus on researching commercial real est
 
 I am passionate about leveraging analytical tools and business acumen to support special projects, enhance research quality and foster data-driven outcomes that advance organizational goals. Recognized for reliability, attention to detail and a collaborative approach to    learning and development.
 
+:handshake: Let's connect 
+If you're looking for a Data Analyst with a proven record of transforming data into insights and driving tangible business impact -- I'd love to connect.
+
+
 
 # Skills
 
