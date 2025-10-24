@@ -16,7 +16,7 @@ If you're looking for a Data Analyst with a proven record of transforming data i
 
 
 
-# Skills
+## Skills
 
 -Data Analysis on Commercial Real Estate and Preparing Reports: Conduct comprehensive analysis of commercial real estate data, identifying trends, patterns and key performance indicators. Generate detailed, accurate reports that provide actionable insights for             stakeholders to support informed decision-making and strategic planning.
 -Advanced Excel: Proficient in using advanced Excel features such as Conditional Formatting to highlight data trends, Pivot Tables to summarize large datasets dynamically and Lookup Functions (VLOOKUP, HLOOKUP) to cross-reference data efficiently. Skilled in creating charts and visualizations for effective data presentation and utilizing complex formulas and functions for data calculation and automation.
