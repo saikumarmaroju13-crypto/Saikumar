@@ -40,7 +40,7 @@ If you're looking for a Data Analyst with a proven record of transforming data i
 
 :briefcase: Current Role
 
-**Senior Data Researcher** | Finacplus Global, Hyderabad (Aug 2022-Present)
+**Senior Data Researcher**| Finacplus Global, Hyderabad (Aug 2022-Present)
 
 :white_check_mark: Researching commercial Real estate companies and collecting quality data for Bisnow to support client research needs. Various special projects require detailed Data pulling and Analysis. :white_check_mark:  Conducted detailed research, maintained complex Excel sheets and utilized SQL to extract project data for Ad-hoc and special assignments. :white_check_mark: 
 
