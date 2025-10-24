@@ -1,9 +1,16 @@
 # About Me
 
 I am Saikumar-Data-driven and detail-oriented Sr. Data Researcher with 3 years experience. I am actively seeking new opportunities as a Data Analyst or Business Analyst to apply my analytical skills and business knowledge in driving impactful data-driven decisions.
+
 -With extensive expertise in Excel, SQL, Python, Power BI and both descriptive and inferential statistics, I specialize in data analysis, manipulation, modeling and mining to uncover actionable business insights.
+
+
 -Currently working at FINACPLUS GLOBAL I focus on researching commercial real estate companies and delivering high-quality accurate data sets that drive client research and business decision-making.
+
+
 -I am passionate about leveraging analytical tools and business acumen to support special projects, enhance research quality and foster data-driven outcomes that advance organizational goals. Recognized for reliability, attention to detail and a collaborative approach to    learning and development.
+
+
 **Skills**
 -Data Analysis on Commercial Real Estate and Preparing Reports: Conduct comprehensive analysis of commercial real estate data, identifying trends, patterns and key performance indicators. Generate detailed, accurate reports that provide actionable insights for             stakeholders to support informed decision-making and strategic planning.
 -Advanced Excel: Proficient in using advanced Excel features such as Conditional Formatting to highlight data trends, Pivot Tables to summarize large datasets dynamically and Lookup Functions (VLOOKUP, HLOOKUP) to cross-reference data efficiently. Skilled in creating charts and visualizations for effective data presentation and utilizing complex formulas and functions for data calculation and automation.
