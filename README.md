@@ -39,14 +39,19 @@ If you're looking for a Data Analyst with a proven record of transforming data i
 -Data Mining
 
 :briefcase: Current Role
+
 **Senior Data Researcher** | Finacplus Global, Hyderabad (Aug 2022-Present)
+
 :white_check_mark: Researching commercial Real estate companies and collecting quality data for Bisnow to support client research needs. Various special projects require detailed Data pulling and Analysis. :white_check_mark:  Conducted detailed research, maintained complex Excel sheets and utilized SQL to extract project data for Ad-hoc and special assignments. :white_check_mark: 
 
 :briefcase: Previous Role 
+
 **Senior Technical Associate** | Tech Mahindra, Hyderabad (Sep 2019-Aug 2022)
+
 :white_check_mark: Handled customer inquiries through chat regarding billing, account setup and technical issues. Revenue targets were set to be met every month through cross-selling opportunities. :white_check_mark: Proactively up-sold Verizon products and services tailored to customer needs during chat interactions. Served as a Subject Matter Expert (SME) offering training and sharing best practices.
 
 :bar_chart: Ket Projects
+
 :pushpin: **Capstone Project on Power Bi** 
 Delivered an effective dashboard providing key business insights, helping to spot top-selling products, understand customer behavior and discover revenue trends with clear visuals.
 
@@ -57,6 +62,7 @@ Created an automated system that cleaned and combined data, calculated bonuses a
 Delivered clear, data-driven presentations that highlighted investment insights. Enabling clients to understand market trends and make informed decisions that boosted their revenue.
 
 :trophy: **ACHIEVEMENTS & AWARDS**
+
 :star: Recognized as Best Data Researcher in Ad-hoc Project  :star: Received Best employee of the month Award for 3 times  :star: Achieved Best Quarterly Revenue generation Award  :star: Secured 2nd place in the college Caroms tournament.
 
    :1st_place_medal: Certifications
