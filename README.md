@@ -56,3 +56,5 @@ Delivered clear, data-driven presentations that highlighted investment insights.
   Successfully completed a comprehensive certification in Data Analytics and Python, covering Data cleaning, Advanced Excel, SQL, Problem Solving, Data Visualization in Power Bi, Python fundamentals and hands on projects.
   
   [View Certificate]((https://www.skillovilla.com/certificate/75DFQ9R9))
+
+  
