@@ -19,14 +19,23 @@ If you're looking for a Data Analyst with a proven record of transforming data i
 :octocat: (https://github.com/saikumarmaroju13-crypto/)
 
 :hammer_and_wrench: Core Skills
+
 -Advanced Excel
+
 -SQL
+
 -Problem Solving
+
 -Power BI
+
 -Python Fundamentals
+
 -Data Analysis
+
 -Data Manipulation
+
 -Descriptive Statistics
+
 -Data Mining
 
 :briefcase: Current Role
@@ -50,7 +59,7 @@ Delivered clear, data-driven presentations that highlighted investment insights.
 :trophy: ACHIEVEMENTS & AWARDS
 :star: Recognized as Best Data Researcher in Ad-hoc Project  :star: Received Best employee of the month Award for 3 times  :star: Achieved Best Quarterly Revenue generation Award  :star: Secured 2nd place in the college Caroms tournament.
 
- #  :1st_place_medal: Certifications
+   :1st_place_medal: Certifications
 **Data Analytics with Python – Skillovilla**  
   
   Successfully completed a comprehensive certification in Data Analytics and Python, covering Data cleaning, Advanced Excel, SQL, Problem Solving, Data Visualization in Power Bi, Python fundamentals and hands on projects.
